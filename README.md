@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](https://alejandroariasag.github.io/csb-6e222/screenshot.png)
+![Screenshot](https://github.com/alejandroariasag/csb-6e222/blob/gh-pages/screenshot.png?raw=true)
 
 ### Links
 
