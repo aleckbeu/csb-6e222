@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/alejandroariasag/csb-6e222/
-- Live Site URL: https://alejandroariasag.github.io/csb-6e222/
+- Solution URL: https://github.com/aleckbeu/csb-6e222/
+- Live Site URL: https://aleckbeu.github.io/csb-6e222/
 
 ## My process
 
@@ -43,4 +43,4 @@ Users should be able to:
 
 ## Author
 
-- Website - https://www.thequiffrepublic.com/
+- Website - https://www.aleckbeu.com/
