@@ -24,12 +24,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](https://github.com/aleckbeu/Galleria-slideshow-site/blob/gh-pages/screenshot.png?raw=true)
+![Screenshot](https://github.com/swckd/Galleria-slideshow-site/blob/gh-pages/screenshot.png?raw=true)
 
 ### Links
 
-- Solution URL: https://github.com/aleckbeu/Galleria-slideshow-site
-- Live Site URL: https://aleckbeu.github.io/Galleria-slideshow-site
+- Solution URL: https://github.com/swckd/Galleria-slideshow-site
+- Live Site URL: https://swckd.github.io/Galleria-slideshow-site
 
 ## My process
 
@@ -43,4 +43,4 @@ Users should be able to:
 
 ## Author
 
-- Website - https://www.aleckbeu.com/
+- Website - 
